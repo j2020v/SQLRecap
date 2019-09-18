@@ -27,13 +27,13 @@ Creates table
 * DELETE
 
 ## Creating Databases
-* <b>VARCHAR</b> - is a datatype. We are telling the databases what kind of 'stuff' will go in the column.</p>
-* <b>DECIMAL</b> - fixed precision and scale.</p>
-* <b>BINARY</b> - stores 1s, 0s, image or file</p>
-* <b>FLOAT</b> - scientific use (very large number)</p>
-* <b>INT</b> - holds an integer</p>
-* <b>DATETIME</b> - stores date, time, both</p>
-* <b>CHARINDEX</b> - fixed length</p>
+* <b>VARCHAR</b> - is a datatype. We are telling the databases what kind of 'stuff' will go in the column
+* <b>DECIMAL</b> - fixed precision and scale
+* <b>BINARY</b> - stores 1s, 0s, image or file
+* <b>FLOAT</b> - scientific use (very large number)
+* <b>INT</b> - holds an integer
+* <b>DATETIME</b> - stores date, time, both
+* <b>CHARINDEX</b> - fixed length
 
 ## String Functions
 * SUBSTRING( ) - substitute for any other characters
