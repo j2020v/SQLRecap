@@ -11,15 +11,6 @@
 
 <b>Foreign Key</b> is a primary key of another table that provides a link between two tables, thus becoming a foreign key.
 
-## Creating Databases
-* <p><b>VARCHAR</b> - is a datatype. We are telling the databases what kind of 'stuff' will go in the column.</p>
-* <p><b>DECIMAL</b> - fixed precision and scale.</p>
-* <p><b>BINARY</b> - stores 1s, 0s, image or file</p>
-* <p><b>FLOAT</b> - scientific use (very large number)</p>
-* <p><b>INT</b> - holds an integer</p>
-* <p><b>DATETIME</b> - stores date, time, both</p>
-* <p><b>CHARINDEX</b> - fixed length</p>
-
 ## DDL Data Definition Language
 Alters/defines table
 * <p>CREATE</p>
@@ -34,6 +25,15 @@ Creates table
 * <p>INSERT</p>
 * <p>UPDATE</p>
 * <p>DELETE</p>
+
+## Creating Databases
+* <p><b>VARCHAR</b> - is a datatype. We are telling the databases what kind of 'stuff' will go in the column.</p>
+* <p><b>DECIMAL</b> - fixed precision and scale.</p>
+* <p><b>BINARY</b> - stores 1s, 0s, image or file</p>
+* <p><b>FLOAT</b> - scientific use (very large number)</p>
+* <p><b>INT</b> - holds an integer</p>
+* <p><b>DATETIME</b> - stores date, time, both</p>
+* <p><b>CHARINDEX</b> - fixed length</p>
 
 ## String Functions
 * SUBSTRING( ) - substitute for any other characters
