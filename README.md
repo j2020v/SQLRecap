@@ -16,17 +16,17 @@
 * <p><b>DECIMAL</b> - fixed precision and scale.</p>
 * <p><b>BINARY</b> - stores 1s, 0s, image or file</p>
 * <p><b>FLOAT</b> - scientific use (very large number)</p>
-* <p></b>INT</b> - holds an integer</p>
-* <p></b>DATETIME</b> - stores date, time, both</p>
+* <p><b>INT</b> - holds an integer</p>
+* <p><b>DATETIME</b> - stores date, time, both</p>
 * <p><b>CHARINDEX</b> - fixed length</p>
 
 ## DDL Data Definition Language
 Alters/defines table
-* <p><b>CREATE</p></b>
-* <p><b>ALTER</p></b>
-* <p><b>DROP</p></b>
-* <p><b>TRUNCATE</p></b>
-* <p><b>CHARINDEX</p></b>
+* <p>CREATE</p>
+* <p>ALTER</p>
+* <p>DROP</p>
+* <p>TRUNCATE</p>
+* <p>CHARINDEX</p>
 
 ## DML Data Manipulation Language
 Creates table
