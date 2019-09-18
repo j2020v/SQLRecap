@@ -13,27 +13,27 @@
 
 ## DDL Data Definition Language
 Alters/defines table
-* <p>CREATE</p>
-* <p>ALTER</p>
-* <p>DROP</p>
-* <p>TRUNCATE</p>
-* <p>CHARINDEX</p>
+* CREATE
+* ALTER
+* DROP
+* TRUNCATE
+* CHARINDEX
 
 ## DML Data Manipulation Language
 Creates table
-* <p>SELECT</p>
-* <p>INSERT</p>
-* <p>UPDATE</p>
-* <p>DELETE</p>
+* SELECT
+* INSERT
+* UPDATE
+* DELETE
 
 ## Creating Databases
-* <p><b>VARCHAR</b> - is a datatype. We are telling the databases what kind of 'stuff' will go in the column.</p>
-* <p><b>DECIMAL</b> - fixed precision and scale.</p>
-* <p><b>BINARY</b> - stores 1s, 0s, image or file</p>
-* <p><b>FLOAT</b> - scientific use (very large number)</p>
-* <p><b>INT</b> - holds an integer</p>
-* <p><b>DATETIME</b> - stores date, time, both</p>
-* <p><b>CHARINDEX</b> - fixed length</p>
+* <b>VARCHAR</b> - is a datatype. We are telling the databases what kind of 'stuff' will go in the column.</p>
+* <b>DECIMAL</b> - fixed precision and scale.</p>
+* <b>BINARY</b> - stores 1s, 0s, image or file</p>
+* <b>FLOAT</b> - scientific use (very large number)</p>
+* <b>INT</b> - holds an integer</p>
+* <b>DATETIME</b> - stores date, time, both</p>
+* <b>CHARINDEX</b> - fixed length</p>
 
 ## String Functions
 * SUBSTRING( ) - substitute for any other characters
